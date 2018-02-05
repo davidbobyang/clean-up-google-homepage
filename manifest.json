@@ -1,0 +1,20 @@
+
+{
+	"manifest_version": 2,
+	"name": "Clean Up Google Homepage",
+	"description": "This extension removes the footer, the About and Store links, and any promotions from the Google homepage.",
+	"version": "0.0.0.1",
+
+	"content_scripts": [
+		{
+			"matches": ["https://www.google.com/"],
+			"css": ["main.css"]
+		}
+	],
+
+	"page_action": {
+		"default_icon": "icon32.png",
+		"default_popup": "popup.html",
+		"default_title": "Clean Up Google Homepage"
+	}
+}
