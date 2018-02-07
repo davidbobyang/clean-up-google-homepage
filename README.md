@@ -1,5 +1,5 @@
 # Clean Up Google Homepage
-**A Chrome extension to clean up clutter on the Google homepage.**  
+A Chrome extension to clean up clutter on the Google homepage.  
   
 Removes the footer, the About and Store links, and any promotions.
 
