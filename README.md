@@ -9,7 +9,7 @@ Removes the footer, the About and Store links, and any promotions.
 
 ## Install
 
-Visit the [Chrome Web Store page](https://chrome.google.com/webstore/detail/github-mention-highlighte/ojclbekffnkgbacniibdebdihhgenlkp) and click "Add to Chrome".
+Visit the [Chrome Web Store page](https://chrome.google.com/webstore/detail/clean-up-google-homepage/cjpmgcoeopklmgpemggjigeedeomiaei) and click "Add to Chrome".
 
 ## Develop locally
 
